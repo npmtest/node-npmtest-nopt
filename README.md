@@ -1,7 +1,7 @@
 # test coverage for  [nopt (v4.0.1)](https://github.com/npm/nopt#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nopt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nopt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nopt.svg)](https://travis-ci.org/npmtest/node-npmtest-nopt)
 #### Option parsing for Node, supporting types, shorthands, etc. Used by npm.
 
-[![NPM](https://nodei.co/npm/nopt.png?downloads=true)](https://www.npmjs.com/package/nopt)
+[![NPM](https://nodei.co/npm/nopt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nopt)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-nopt/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nopt/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nopt/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nopt/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nopt/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-nopt/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-nopt/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-nopt/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nopt/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-nopt/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-nopt%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-nopt/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-nopt/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-nopt/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-nopt/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-nopt%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nopt/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-nopt/build/test-report.html](https://npmtest.github.io/node-npmtest-nopt/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-nopt/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-nopt/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-nopt/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-nopt/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-nopt/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nopt/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-nopt/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +34,6 @@
 {
     "author": {
         "name": "Isaac Z. Schlueter",
-        "email": "i@izs.me",
         "url": "http://blog.izs.me/"
     },
     "bin": {
@@ -56,21 +61,17 @@
     "main": "lib/nopt.js",
     "maintainers": [
         {
-            "name": "isaacs",
-            "email": "i@izs.me"
+            "name": "isaacs"
         },
         {
-            "name": "othiym23",
-            "email": "ogd@aoaioxxysz.net"
+            "name": "othiym23"
         },
         {
-            "name": "zkat",
-            "email": "kat@sykosomatic.org"
+            "name": "zkat"
         }
     ],
     "name": "nopt",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/npm/nopt.git"
