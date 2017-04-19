@@ -1,4 +1,7 @@
-# test coverage for  [nopt (v4.0.1)](https://github.com/npm/nopt#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nopt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nopt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nopt.svg)](https://travis-ci.org/npmtest/node-npmtest-nopt)
+# npmtest-nopt
+
+#### test coverage for  [nopt (v4.0.1)](https://github.com/npm/nopt#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nopt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nopt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nopt.svg)](https://travis-ci.org/npmtest/node-npmtest-nopt)
+
 #### Option parsing for Node, supporting types, shorthands, etc. Used by npm.
 
 [![NPM](https://nodei.co/npm/nopt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nopt)
